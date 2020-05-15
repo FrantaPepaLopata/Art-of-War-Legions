@@ -23,7 +23,8 @@ background-color: #052aa3;
 padding: 13px 42px 13px 42px;
 border-radius: 20px;
 text-decoration: none;
-}h1{
+}
+h1{
 font-size:2em;
 }
 .container{
@@ -39,4 +40,16 @@ display: inline-block;
 .experience-item{
     padding: 10px;
     border-left:1px solid rgba(137,130,247,.2);
+}
+.secondary-btn{
+background-color: #075e17;
+border-radius: 20px;
+padding: 13px 42px 13px 42px;
+}
+.text-btn{
+color: white;
+text-decoration: none;
+}
+.steelblue{
+color: #5a8cb8;
 }
